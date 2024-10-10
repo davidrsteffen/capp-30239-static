@@ -41,3 +41,7 @@ enrolled in any health insurance and in Medicaid specifically (B27007, B27010, a
 
 # A list of any questions you have for us.
   No questions for now!
+
+  http://people.cs.uchicago.edu/~mcnutt/capp-30239-static-showcase-w21/2021-static-showcases/pelczar-web.pdf
+  http://people.cs.uchicago.edu/~mcnutt/capp-30239-static-showcase-w21/2021-static-showcases/cloftus-web.pdf
+  http://people.cs.uchicago.edu/~mcnutt/capp-30239-static-showcase-w21/2021-static-showcases/greer.pdf
