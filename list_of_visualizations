@@ -1,10 +1,14 @@
-Proportion of Medicaid in each age/sex group: bar charts
+Proportion of Medicaid in each age/sex group: bar charts across age groups
   Separate bar charts for men and women, and for black and white racial groups
   Small multiples?
 
 Scatterplot of % of population in Medicaid vs. % of population in public health insurance
   Scatterplot of % of population in Medicaid vs. % of population insured at all
   Size by population
+
+Scatterplot of 
+  % black vs. % of black population enrolled in Medicaid
+  % white vs. % of white population enrolled in Medicaid 
 
 Chloropleth of proportion of population in Medicaid in each state, overall and by race/ethnicity
   Small multiples?
@@ -13,3 +17,6 @@ Chloropleth of proportion of population in Medicaid in each state, overall and b
 Line charts of changes over time in % enrolled in Medicaid
   Trajectory plots for expansion states vs. non-expansion states
   Stacked area chart by insurance type?
+
+2014 vs. 2023 by state
+
