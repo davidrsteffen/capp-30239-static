@@ -1,25 +1,34 @@
+1. Scatterplot of % of population in Medicaid vs. % of population in public health insurance
+  Size by population
+  Label by expansion vs. non-expansion
+
+2. Scatterplot of % of population in PI >138% vs. less than 138%
+  Size by population
+  Label by expansion vs. non-expansion
+
+3. Chloropleth of proportion of population in Medicaid in each state
+
+4. Chloropleth of proportion of population in Medicaid in each race/gender grouping
+  Small multiples?
+
+5. Chloropleth of change from 2015 to 2023 in
+  % enrolled in Medicaid
+  % of population <138% in public health insurance
+
+6. Bar charts comparing expansion vs. non-expansion in each age/gender combination, small multiples
+
+7. Line charts of changes over time in % enrolled in Medicaid, labeled by expansion status
+  Trajectory plots for expansion states vs. non-expansion states
+  Stacked area chart by insurance type?
+
 Proportion of Medicaid in each age/sex group: bar charts across age groups
   Separate bar charts for men and women, and for black and white racial groups
   Small multiples?
 
-Scatterplot of % of population in Medicaid vs. % of population in public health insurance
-  Scatterplot of % of population in Medicaid vs. % of population insured at all
-  Size by population
-  Label by expansion vs. non-expansion
-
+Later: Scatterplot of % of population in Medicaid vs. % of population insured at all
   Add a scatterplot of % covered vs. % Medicaid (or on same plot depending)
 
-Scatterplot of 
+Later: Scatterplot of 
   % black vs. % of black population enrolled in Medicaid
   % white vs. % of white population enrolled in Medicaid 
-
-Chloropleth of proportion of population in Medicaid in each state, overall and by race/ethnicity
-  Small multiples?
-  Chloropleth of change from 2014?
-
-Line charts of changes over time in % enrolled in Medicaid
-  Trajectory plots for expansion states vs. non-expansion states
-  Stacked area chart by insurance type?
-
-2014 vs. 2023 by state
 
