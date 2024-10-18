@@ -11,11 +11,11 @@
 4. Chloropleth of proportion of population in Medicaid in each race/gender grouping
   Small multiples?
 
-5. Chloropleth of change from 2015 to 2023 in
+5. Bar charts comparing expansion vs. non-expansion in each age/gender combination, small multiples
+
+6. Bar chart of of change from 2015 to 2023 in
   % enrolled in Medicaid
   % of population <138% in public health insurance
-
-6. Bar charts comparing expansion vs. non-expansion in each age/gender combination, small multiples
 
 7. Line charts of changes over time in % enrolled in Medicaid, labeled by expansion status
   Trajectory plots for expansion states vs. non-expansion states
