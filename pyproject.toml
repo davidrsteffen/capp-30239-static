@@ -8,4 +8,5 @@ dependencies = [
     "altair>=5.4.1",
     "jupyter>=1.1.1",
     "pandas>=2.2.3",
+    "vega-datasets>=0.9.0",
 ]
