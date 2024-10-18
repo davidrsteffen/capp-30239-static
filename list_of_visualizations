@@ -8,8 +8,7 @@
 
 3. Chloropleth of proportion of population in Medicaid in each state
 
-4. Chloropleth of proportion of population in Medicaid in each race/gender grouping
-  Small multiples?
+4. #Percentage in Medicaid and in public coverage under 138% by expansion status and year
 
 5. Bar charts comparing expansion vs. non-expansion in each age/gender combination, small multiples
 
@@ -20,6 +19,8 @@
 7. Line charts of changes over time in % enrolled in Medicaid, labeled by expansion status
   Trajectory plots for expansion states vs. non-expansion states
   Stacked area chart by insurance type?
+
+# 8. Line charts of changes over time in % enrolled in any public insurance under 138%, labeled by expansion status
 
 Proportion of Medicaid in each age/sex group: bar charts across age groups
   Separate bar charts for men and women, and for black and white racial groups
