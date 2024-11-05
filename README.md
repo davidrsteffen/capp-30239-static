@@ -22,7 +22,7 @@ of states' Medicaid caseloads? How do these now differ from non-expansion states
 
 &ensp; How have these impacts changed over time, if at all? <br>
 
-## Screenshot
+## Visualizations
 
 [Project Visualization](static_final/Medicaid_Expansion_Effects.png)
 
