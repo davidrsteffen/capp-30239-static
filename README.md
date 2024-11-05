@@ -14,7 +14,7 @@ David Steffen
 The primary data source for these analyses was the annual American Community Survey.
 These datasets are available at data.census.gov, and are publicly accessible.
 
-Key datasets I used included: \\
+Key datasets I used included: \linebreak
 B27001 Health Insurance Coverage Status by Sex by Age
 B27007 Medicaid/Means-Tested Public Coverage by Sex by Age
 B27010 Types of Health Insurance Coverage by Age
