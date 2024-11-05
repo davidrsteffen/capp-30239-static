@@ -11,7 +11,16 @@ especially the impact of the decisions by certain states not to expand Medicaid.
 primarily targeted adults, and especially childless adults, with incomes below 138% of the Federal
 Poverty Level (FPL). As a result, this project sought to explore: <br>
 
- What impact
+&ensp; How important is Medicaid to the provision of public health insurance, and how important was
+the expansion to the provision of public health insurance to people of different income levels? <br>
+
+&ensp; What impact did not expanding Medicaid have on the proportion of people with low incomes who
+are able to access Medicaid and other public health insurance programs? <br>
+
+&ensp; How did expansion impact access to Medicaid by age, and how did expansion affect the age makeup
+of states' Medicaid caseloads? How do these now differ from non-expansion states, if at all? <br>
+
+&ensp; How have these impacts changed over time, if at all? <br>
 
 ## Screenshot
 
