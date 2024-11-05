@@ -24,7 +24,11 @@ of states' Medicaid caseloads? How do these now differ from non-expansion states
 
 ## Screenshot
 
-[Project Visualization](static_final/Medicaid_Expansion_Effects.pdf)
+[Project Visualization](static_final/Medicaid_Expansion_Effects.png)
+
+[PDF link](static_final/Medicaid_Expansion_Effects.pdf)
+
+[SVG link](static_final/Medicaid_Expansion_Effects.svg)
 
 ## Data Sources
 The primary data source for these analyses was the annual American Community Survey.
